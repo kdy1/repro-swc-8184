@@ -10,5 +10,9 @@
           "./src/*"
         ]
       }
+    },
+    "module":{
+      "type":"es6",
+      "resolveFully":true
     }
   }
